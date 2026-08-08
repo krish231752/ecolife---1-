@@ -136,6 +136,7 @@ ecolife+/
 ├── server.ts            # Express server configuration
 ├── .env.example
 └── package.json
+```
 
 ## 🚀 Future Scope
 
